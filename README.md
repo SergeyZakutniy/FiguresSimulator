@@ -3,7 +3,7 @@
 **Features**
 
 * *Random generation of different figures, such as: Rectangle, Circle, Triangle;*
-* ** **
+* **Kostya Add please description**
 * ** **
 * ** **
 
