@@ -2,7 +2,7 @@
 
 **Features**
 
-* ** **
+* ** Random generation of different figures, such as: Rectangle, Circle, Triangle;**
 * ** **
 * ** **
 * ** **
