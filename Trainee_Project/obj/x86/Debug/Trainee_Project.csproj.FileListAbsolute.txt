@@ -1,0 +1,83 @@
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csproj.GenerateResource.Cache
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+c:\users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csprojResolveAssemblyReference.cache
+C:\Users\1\documents\visual studio 2010\Projects\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.resources
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.resources
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.resources
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+C:\Users\1\Desktop\С#\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\bin\Debug\ru\Trainee_Project.resources.dll
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.ru.resources
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\ru\Trainee_Project.resources.dll
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\bin\Debug\en\Trainee_Project.resources.dll
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.en.resources
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\en\Trainee_Project.resources.dll
+C:\Users\User\Desktop\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.resources
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.en.resources
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.ru.resources
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.resources
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.en.resources
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Form1.ru.resources
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка столкновений\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.Properties.Resources.resources
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.pdb
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\bin\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\en\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\ru\Trainee_Project.resources.dll
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.FiguresForm.resources
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.FiguresForm.en.resources
+C:\Users\1\Desktop\С#\Попытка рандома\ТОП ПРОЕКТ\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.FiguresForm.ru.resources
+C:\Users\1\Desktop\Trainee_Project\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Desktop\Trainee_Project\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
+C:\Users\1\Documents\GitHub\FiguresSimulator\Trainee_Project\bin\Debug\Trainee_Project.exe.config
+C:\Users\1\Documents\GitHub\FiguresSimulator\Trainee_Project\obj\x86\Debug\Trainee_Project.exe
+C:\Users\1\Documents\GitHub\FiguresSimulator\Trainee_Project\obj\x86\Debug\Trainee_Project.pdb
