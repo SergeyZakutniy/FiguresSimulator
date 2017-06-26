@@ -1,4 +1,4 @@
-# Figures Simulator on C#
+# Figures simulation of movement [on C#]
 
 **Features**
 
